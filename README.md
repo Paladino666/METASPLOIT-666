@@ -9,6 +9,8 @@ $ chmod +x install.sh
 
 $ bash install.sh"
 
+$ bash Iniciar.sh
+
 espere entre 30-50 minutos a instalação
 e para iniciar o metasploit e so da o comando
 
