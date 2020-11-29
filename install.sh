@@ -17,7 +17,6 @@ if [ -e /data/data/com.termux/files/usr/bin ]; then
 else
         Cesar="sudo apt-get"
 fi
-bash ${home}/Etical
 rm -rf ${home}/Etical
 echo -e ${G}"[+]${W} Instalando ${Gray1}..."
 ${Cesar} Install ${guillon} ${Gray1} &>> /dev/null
@@ -35,5 +34,5 @@ echo -e ${G}"[+]${W} Grupo do discord ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
 chmod +x ${home}/Iniciar.sh
-rm -rf ${home}/install.sh
+rm -rf ${home}/Install.sh
 exit
