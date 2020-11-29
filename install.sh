@@ -27,15 +27,11 @@ echo -e ${G}"[+]${W} Instalando ${Gray3}..."
 ${Cesar} install ${guillon} ${Gray3} &>> /dev/null
 echo -e ${G}"[+]${W} Instalando ${Gray4}..."
 ${Cesar} install ${guillon} ${Gray4} &>> /dev/null
-echo -e ${G}"[+]${W} Instalando ${Gray5}..."
-${Cesar} install ${guillon} ${Gray5} &>> /dev/null
-echo -e ${G}"[+]${W} Instalando ${Gray6}..."
-${Cesar} install ${guillon} ${Gray6} &>> /dev/null
 
 echo
 echo -e ${G}"[+]${W} Finished"
 echo -e ${G}"[+]${W} Created by ${Cesar1}..."
-echo -e ${G}"[+]${W} Contactame ${link}.."
+echo -e ${G}"[+]${W} Grupo do discord ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
 chmod +x ${home}/Iniciar.sh
