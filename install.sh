@@ -6,6 +6,7 @@ WW='\033[32m'
 guillon="-y"
 Cesar1="@Paladino 666"
 link="https://discord.gg/ebs5vjpn7s"
+Usage="./Iniciar.sh [disfruta]"
 Gray1="curl"
 Gray2="ruby"
 Gray3="wget"
