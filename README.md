@@ -3,15 +3,15 @@ Essa ferramenta e para baixar o metasploit
 em celulares com a versão abaixo de 6.0
 "COMANDOS"
 
-"cd METASPLOIT-666"
+$ cd METASPLOIT-666"
 
-"chmod +x Iniciar.sh"
+$ chmod +x install.sh
 
-"bash Iniciar.sh"
+$ bash install.sh"
 
 espere entre 30-50 minutos a instalação
 e para iniciar o metasploit e so da o comando
 
-"msfconsole"
+$ msfconsole
 
-criardor da ferramenta:PALADINO 666
+Canal do YouTube PALADINO 666
