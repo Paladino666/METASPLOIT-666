@@ -3,7 +3,6 @@ clear
 W='\033[90m'
 G='\033[1;36m'
 WW='\033[32m'
-home=`pwd`
 guillon="-y"
 Cesar1="@Paladino 666"
 link="https://discord.gg/ebs5vjpn7s/"
