@@ -33,6 +33,7 @@ echo -e ${G}"[+]${W} Created by ${Cesar1}..."
 echo -e ${G}"[+]${W} Grupo do discord ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
-chmod +x ${home}/Iniciar.sh
-rm -rf ${home}/Install.sh
+chmod +x Iniciar.sh
+rm -rf install.sh
 exit
+clear
