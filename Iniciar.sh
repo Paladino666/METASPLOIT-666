@@ -5,11 +5,11 @@ setterm -foreground green -store
 
 clear
 
-figlet -f mono12 "METASPLOIT"
+figlet -f mono12 METASPLOIT
 
 termux-open-url https://www.youtube.com/channel/UCkvRIcijkQywJgOpoj-1diQ
 
-echo "CONTINIUAR[C]SAIR[S]"
+echo "CONTINIUAR [C] SAIR [S]"
 read PROCESSANDO
 
 if [ "$PROCESSANDO" = "C" ]
