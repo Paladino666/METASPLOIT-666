@@ -1,4 +1,5 @@
 #!/bin/babash
+clear
 W='\033[90m'
 G='\033[1;36m'
 WW='\033[32m'
@@ -6,7 +7,7 @@ home=`pwd`
 guillon="-y"
 Cesar1="@Paladino 666"
 link="https://discord.gg/ebs5vjpn7s/"
-Usage="./Iniciar.sh [disfruta]"
+Próximo comando="./Iniciar.sh [Iniciar]"
 Gray1="curl"
 Gray2="ruby"
 Gray3="wget"
